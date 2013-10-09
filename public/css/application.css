@@ -4,6 +4,74 @@
   padding: 0px 20px 20px 20px;
   border: 1px dotted black;
 }
-th {
-  text-align: left;
+
+
+
+.list_header {
+
+  position: absolute;
+  left: 350px;
+
 }
+
+.category_list {
+
+  padding: 50px 20px 20px 20px;
+  position: absolute;
+  left: 250px;
+
+}
+
+
+.listings_list {
+
+  padding: 50px 20px 20px 20px;
+  position: absolute;
+  left: 150px;
+
+}
+
+.post_header {
+
+  position: absolute;
+  left: 350px;
+  padding: 50px 20px 20px 20px;
+
+}
+
+.post_attributes {
+
+  position: absolute;
+  left: 250px;
+  padding: 100px 20px 20px 20px;
+
+}
+
+.top_right_button {
+
+position: absolute;
+right: 30px;
+
+}
+
+.create_post_header {
+
+  position: absolute;
+  left: 350px;
+  padding: 50px 20px 20px 20px;
+
+}
+
+.post_fields {
+
+  padding: 200px 20px 20px 20px;
+  position: absolute;
+  left: 250px;
+}
+
+
+
+
+
+
+
